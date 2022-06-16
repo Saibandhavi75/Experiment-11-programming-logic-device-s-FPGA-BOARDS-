@@ -17,7 +17,7 @@
 ![output](https://github.com/Saibandhavi75/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/6.png?raw=true)
  
 ### OUTPUT:
-![output](https://github.com/Saibandhavi75/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/5.png?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/5.jpeg?raw=true)
 
 ### RESULT:
 The standard procedure to interface an FPGA board and flashing method using usb blaster has been understood
